@@ -12,3 +12,7 @@ Datasheets and other documentation is uploaded to GitHub in the folder Documenta
 # About the Project  
 A device to make a non Wireless Roomba, Wireless and make it possible to start the Roomba over the Internet  
 The Project will use IFTTT as the web API, to start the Roomba if it is present at the charging station
+
+## Interface analysis
+
+  ![Interface Analysis]( E5IOT/Documentation/E5IOT - Interface Analysis.png )
