@@ -15,3 +15,14 @@ The Project will use IFTTT as the web API, to start the Roomba if it is present 
 
 ## Interface analysis
 ![E5IOT-Interface_Analysis](https://user-images.githubusercontent.com/54708397/95123092-b9730380-0751-11eb-9ade-470a4a7e4caa.png)
+
+
+## Status  
+| Date      | Update |
+| ----------- | ----------- |
+| 05/10/2020 | Analysis on components have been done, and Interface Analysis have been made |
+| 05/10/2020 | Message from IFTTT can now be catched by Photon       |
+| Date   | Update        |
+
+## Author
+Malthe B. Nielsen
