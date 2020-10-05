@@ -5,7 +5,7 @@ Project for IOT class, 5. semester 2020 by Malthe B. Nielsen
 Sensor             - Ultra sonic sensor  
 Actuator           - Servo motor  
 Web API            - IFTTT  
-Technical Platform - Photon (& Arduino? TBD.)  
+Technical Platform - Photon & Arduino  
 
 Datasheets and other documentation is uploaded to GitHub in the folder Documentation.
 
