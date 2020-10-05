@@ -15,4 +15,4 @@ The Project will use IFTTT as the web API, to start the Roomba if it is present 
 
 ## Interface analysis
 
-    ![Interface Analysis](E5IOT/Documentation/E5IOT-Interface_Analysis.png)
+    ![Interface Analysis](Documentation/E5IOT - Interface Analysis.png)
