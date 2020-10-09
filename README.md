@@ -23,6 +23,8 @@ Because the Photon doesn't support 5V output on GPIO, and extra platform is need
 | ----------- | ----------- |
 | 05/10/2020 | Analysis on components have been done, and Interface Analysis have been made |
 | 05/10/2020 | Message from IFTTT can now be catched by Photon       |
+| 09/10/2020   | Test program to measure distance works |
+| 09/10/2020   | Test program to activate servo motor works, and can turn from 0-180 degrees |
 | Date   | Update        |
 
 ## Author
