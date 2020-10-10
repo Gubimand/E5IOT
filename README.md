@@ -16,7 +16,9 @@ The Project will use IFTTT as the web API, to start the Roomba if it is present 
 ## Interface analysis
 For connection between user and System-To-Be, the IFTTT service is going to be used. Here a "Applet" with the button feature is going to be used, so when the user interact with the button on their smartphone, IFTTT will send a message / publish a message on the particle platform, which the Photon can subscribe to. When a message is published the Photon will react to that, and begin procedure.  
   
+  
 ![IFTTT_communication](https://user-images.githubusercontent.com/54708397/95649891-54683680-0ae0-11eb-9a0c-62cb9440f765.png)
+  
   
 Because the Photon doesn't support 5V output on GPIO, and extra platform is needed. In this case Arduino have been choosen, because it supports 5V on output, on most of their units. That means, that the Arduino also can power the Photon, so only a single external power source is needed. To communicate with with the Photon, UART data communication have been choosen.  
 ![E5IOT - Interface Analysis](https://user-images.githubusercontent.com/54708397/95627436-8647b180-0a7c-11eb-9beb-b1848b5f4bd1.png)  
