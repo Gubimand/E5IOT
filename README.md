@@ -37,6 +37,7 @@ With User interaction and Hardware done a sequence diagram be made
 | 08/10/2020   | Test program to activate servo motor works, and can turn from 0-180 degrees |
 | 09/10/2020   | Interface Analysis have been completed, and Uart have been choosen over SPI |
 | 10/10/2020   | Sequence Diagram have been made        |
+| 29/10/2020   | Worked on UART communication between Photon and Arduino, new code will be updated soon        |
 | Date   | Update        |
 
 ## Author
