@@ -38,6 +38,7 @@ With User interaction and Hardware done a sequence diagram be made
 | 09/10/2020   | Interface Analysis have been completed, and Uart have been choosen over SPI |
 | 10/10/2020   | Sequence Diagram have been made        |
 | 29/10/2020   | Worked on UART communication between Photon and Arduino, new code will be updated soon        |
+| 24/11/2020   | Uploaded finished implementation of Photon and Ardunino part        |
 | Date   | Update        |
 
 ## Author
