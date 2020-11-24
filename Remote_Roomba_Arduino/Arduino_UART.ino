@@ -1,3 +1,15 @@
+////////////////////////////////////////////////////////////
+//
+// Source file   : Arduino_UART.ino
+// Author        : Malthe B. Nielsen
+// Date          : 05/10/2020
+// Version       : 3
+// 
+// Description   :
+// This is the main file for the RR project, which is a project
+// To make wifi connect a non wifi roomba
+////////////////////////////////////////////////////////////
+
 //Includes
 #include <Servo.h>
 
