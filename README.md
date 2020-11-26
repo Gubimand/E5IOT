@@ -25,7 +25,8 @@ Because the Photon doesn't support 5V output on GPIO, and extra platform is need
   
 
 With User interaction and Hardware done a sequence diagram be made  
-![Sequence Diagram of Remote Roomba](https://user-images.githubusercontent.com/54708397/95651421-9a29fc80-0aea-11eb-8c5f-9aca3cae6c9c.png)
+![Sequence Diagram of Remote RoombaV2](https://user-images.githubusercontent.com/54708397/100332003-21ff9380-2fd1-11eb-872a-83810481f3ac.png)
+
 
 
 ## Status  
@@ -39,6 +40,7 @@ With User interaction and Hardware done a sequence diagram be made
 | 10/10/2020   | Sequence Diagram have been made        |
 | 29/10/2020   | Worked on UART communication between Photon and Arduino, new code will be updated soon        |
 | 24/11/2020   | Uploaded finished implementation of Photon and Ardunino part        |
+| 26/11/2020   | Updated the Sequence Diagram        |
 | Date   | Update        |
 
 ## Author
